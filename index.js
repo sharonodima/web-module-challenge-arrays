@@ -222,7 +222,7 @@ Use the getAverageWordLength function below to do the following:
 
 function getAverageWordLength(array1){
   for(let i = 0; i < array1.length; i++){
-  return array1[i].length;
+  
   }
 }
 
